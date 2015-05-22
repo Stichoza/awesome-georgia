@@ -18,6 +18,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
 #### Assets
 
  - [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+ - [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font.
  - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
 
 #### Internationalization and Localization (i18n/l10n)
