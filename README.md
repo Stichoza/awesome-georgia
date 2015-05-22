@@ -30,12 +30,12 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
  - **Other localized packages**
    - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
-   - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza)
+   - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
 
 #### Fakers, Lorem Ipsum Generators
 
  - [Stichoza/text-generator](https://github.com/Stichoza/text-generator) - Random gibberish generator (PHP).
- - [safareli/loremtyaosani](https://github.com/safareli/loremtyaosani) - Generate lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript)
+ - [safareli/loremtyaosani](https://github.com/safareli/loremtyaosani) - Generate random lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript).
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) (PHP).
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript). *[Pull request](https://github.com/Marak/faker.js/pull/158) will be merged in next release*
 
@@ -43,4 +43,4 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
  - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
  - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
- - [btomashvili/ge-services] (https://github.com/btomashvili/geo-services) python clients for Revenue service (Rs.ge) & National Bank (NBG.ge)
+ - [btomashvili/ge-services] (https://github.com/btomashvili/geo-services) Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
