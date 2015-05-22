@@ -11,6 +11,15 @@ A curated list of awesome libraries and packages specific to Georgia (country).
    - [safareli/magtifun](https://github.com/safareli/magtifun) - Another Magtifun CLI based on Node (JavaScript).
    - [kala13x/magtisun](https://github.com/kala13x/magtisun) - MagtiFun Library and SMS Sender for CLI Applications (C).
 
+#### Payments
+
+ - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
+
+#### Assets
+
+ - [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
+ - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
+
 #### Internationalization and Localization (i18n/l10n)
  - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money to localized string (PHP, JavaScript).
  - [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) - Convert numbers to localized strings (JavaScript).
@@ -21,21 +30,12 @@ A curated list of awesome libraries and packages specific to Georgia (country).
    - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza)
 
-#### Payments
-
- - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
-
-#### Assets
-
- - [Stichoza/font-larisome](https://github.com/Stichoza/font-larisome) - Iconic font for Georgian currency inspired by Font-Awesome (CSS).
- - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
-
 #### Fakers, Lorem Ipsum Generators
 
  - [Stichoza/text-generator](https://github.com/Stichoza/text-generator) - Random gibberish generator (PHP).
  - [safareli/loremtyaosani](https://github.com/safareli/loremtyaosani) - Generate lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript)
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) (PHP).
- - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
+ - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript). *[Pull request](https://github.com/Marak/faker.js/pull/158) will be merged in next release*
 
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
