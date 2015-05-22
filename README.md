@@ -14,6 +14,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money into a localized string (PHP, JavaScript).
  - [dimakura/ka](https://github.com/dimakura/ka) - Common functionality for georgian projects (Ruby).
  - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
+ - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
  - **Other localized packages**
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza)
 
