@@ -1,5 +1,7 @@
-# awesome-georgia
+# Awesome Georgia
 A curated list of awesome libraries and packages specific to Georgia (country).
+
+---
 
 #### SMS / Texting
  - [dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).
