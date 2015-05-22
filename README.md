@@ -12,7 +12,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
    - [kala13x/magtisun](https://github.com/kala13x/magtisun) - MagtiFun Library and SMS Sender for CLI Applications (C).
 
 #### Internationalization and Localization (i18n/l10n)
- - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money into a localized string (PHP, JavaScript).
+ - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money to localized string (PHP, JavaScript).
  - [natchkebiailia/NumberToWord](https://github.com/natchkebiailia/NumberToWord) - Convert numbers to localized strings (JavaScript).
  - [dimakura/ka](https://github.com/dimakura/ka) - Common functionality for georgian projects (Ruby).
  - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
