@@ -15,7 +15,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [dimakura/ka](https://github.com/dimakura/ka) - Common functionality for georgian projects (Ruby).
  - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
  - **Other localized packages**
-   - 
+   - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza)
 
 #### Payments
 
