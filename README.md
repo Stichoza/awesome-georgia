@@ -18,6 +18,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
  - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
  - **Other localized packages**
+   - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza)
 
 #### Payments
