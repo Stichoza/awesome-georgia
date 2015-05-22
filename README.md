@@ -7,7 +7,8 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).
  - **Magtifun**
    - [Stichoza/magtifun-api](https://github.com/Stichoza/magtifun-api) - Magtifun API for Google App Engine (Python).
-   - [Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - Command Line Interface for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI).
+   - [Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - CLI for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI) (Python).
+   - [safareli/magtifun](https://github.com/safareli/magtifun) - Another Magtifun CLI based on Node (JavaScript).
 
 #### Internationalization and Localization (i18n/l10n)
  - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money into a localized string (PHP, JavaScript).
@@ -23,6 +24,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
 #### Fakers, Lorem Ipsum Generators
 
  - [Stichoza/text-generator](https://github.com/Stichoza/text-generator) - Random gibberish generator (PHP).
+ - [safareli/loremtyaosani](https://github.com/safareli/loremtyaosani) - Generate lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript)
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) (PHP).
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
 
