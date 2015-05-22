@@ -40,3 +40,4 @@ A curated list of awesome libraries and packages specific to Georgia (country).
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
  - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
+ - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
