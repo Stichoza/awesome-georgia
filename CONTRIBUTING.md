@@ -1,9 +1,11 @@
-# კონტრიბუციის წესები
+# Contribution Guideline
 
- - რაიმე რესურსის დამატებამდე, დააკვირდით:
-   - უკვე ხომ არ არის დამატებული აღნიშნული რესურსი.
-   - ხომ არ არის მსგავსი [pull request](https://github.com/Stichoza/awesome-georgia/pulls) გამერჯვის მოლოდინში.
- - თითო რესურსი გამოუშვით ცალკე pull request-ად.
- - წერეთ გრამატიკულად გამართულად.
- - თქვენი pull request აღწერეთ შეძლებისდაგვარად კარგად.
- - მიუღებელია რეკლამის შემცველი ტექსტი აღწერაში.
+ - Before adding any resource, make sure:
+   - It's not already included in the list.
+   - There isn't a [pull request](https://github.com/Stichoza/awesome-georgia/pulls) for the same resource.
+ - Separate pull request for a single package/lib.
+ - Check grammar.
+ - Describe your pull request well.
+ - No ads in descriptions.
+ - Descriptions in English (Many foreigner developers use these packages).
+ - **Only** add resources that other developers **can use** - i.e. packages, libs, language-packs, etc. **DO NOT** add just apps and other stuff.
