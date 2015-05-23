@@ -14,6 +14,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
 #### Payments
 
  - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
+ - [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
 
 #### Assets
 
