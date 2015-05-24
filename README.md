@@ -46,3 +46,11 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
  - [btomashvili/ge-services](https://github.com/btomashvili/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
+
+---
+
+## License
+
+[<img width=96 src=https://cloud.githubusercontent.com/assets/1139050/7786185/86edebea-01cc-11e5-9658-4060b6c45248.jpg>](LICENSE)
+
+To the extent possible under law, [Stichoza (Levan Velijanashvili)](http://github.com/Stichoza) has waived all copyright and related or neighboring rights to this work.
