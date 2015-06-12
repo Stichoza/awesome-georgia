@@ -39,7 +39,7 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [Stichoza/text-generator](https://github.com/Stichoza/text-generator) - Random gibberish generator (PHP).
  - [safareli/loremtyaosani](https://github.com/safareli/loremtyaosani) - Generate random lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript).
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) (PHP).
- - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript). *[Pull request](https://github.com/Marak/faker.js/pull/158) will be merged in next release*
+ - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
 
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
