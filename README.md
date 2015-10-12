@@ -48,6 +48,10 @@ A curated list of awesome libraries and packages specific to Georgia (country).
  - [btomashvili/ge-services](https://github.com/btomashvili/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
 
+#### Other Awesome Lists
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+
 ---
 
 ## License
