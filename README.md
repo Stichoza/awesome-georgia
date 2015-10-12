@@ -1,5 +1,5 @@
 # Awesome Georgia
-A curated list of awesome libraries and packages specific to Georgia (country).
+A curated list of awesome libraries and packages specific/related to Georgia (country).
 
 ---
 
