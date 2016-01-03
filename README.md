@@ -11,10 +11,11 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
    - [safareli/magtifun](https://github.com/safareli/magtifun) - Another Magtifun CLI based on Node (JavaScript).
    - [kala13x/magtisun](https://github.com/kala13x/magtisun) - MagtiFun Library and SMS Sender for CLI Applications (C).
 
-#### Payments
+#### Payments and Banks
 
  - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
  - [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
+ - [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
 
 #### Assets
 
