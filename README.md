@@ -6,6 +6,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 #### SMS / Texting
  - [dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).
  - [wearede/magtisms-php](https://github.com/wearede/magtisms-php) - Sending SMS via Magticom gateway (PHP).
+ - [zgabievi/SMS](https://github.com/zgabievi/SMS) - SMS Sending System for [Laravel 5.*](https://laravel.com/)
  - **Magtifun**
    - [Stichoza/magtifun-api](https://github.com/Stichoza/magtifun-api) - Magtifun API for Google App Engine (Python).
    - [Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - CLI for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI) (Python).
@@ -19,6 +20,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
  - [zgabievi/eMoney](https://github.com/zgabievi/eMoney) - eMoney Payment System for [Laravel 5.*](https://laravel.com/)
  - [zgabievi/OSMP](https://github.com/zgabievi/OSMP) - Georgian OSMP System Payment for [Laravel 5.*](https://laravel.com/)
+ - [zgabievi/TBC](https://github.com/zgabievi/TBC) - TBC Payment System for [Laravel 5.*](https://laravel.com/)
 
 #### Assets
 
