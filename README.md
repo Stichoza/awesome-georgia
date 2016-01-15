@@ -57,7 +57,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
  - [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) - List of awesome Goergian talks.
  - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 200000+ unique Georgian words (MySQL).
- - [zgabievi/promocodes](https://github.com/zgabievi/promocodes) - Promotional Codes Generator for [Laravel 5.*](https://laravel.com/)
+ - [zgabievi/Promocodes](https://github.com/zgabievi/promocodes) - Promotional Codes Generator for [Laravel 5.*](https://laravel.com/)
 
 ---
 
