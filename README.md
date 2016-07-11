@@ -53,6 +53,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
  - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
  - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
+ - [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) - Vue.js georgian keyboard directive
  - [btomashvili/ge-services](https://github.com/btomashvili/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
  - [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) - List of awesome Georgian talks.
