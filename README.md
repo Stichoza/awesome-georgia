@@ -41,6 +41,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
    - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
    - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+   - [jenssegers/date](https://github.com/jenssegers/date) - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
 
 #### Fakers, Lorem Ipsum Generators
 
