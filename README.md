@@ -50,6 +50,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - A library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) and [@akalongman](https://github.com/akalongman) (PHP).
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
 
+#### Maps
+ - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - Georgian regions geoJson data
+
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
  - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
