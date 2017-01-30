@@ -65,6 +65,10 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [getsadzeg/gegram-class](https://github.com/getsadzeg/gegram-class) - Library for replacing barbarisms in Georgian sentences (Java).
  - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 300 000 + unique Georgian words (MySQL).
 
+#### Other Awesome Lists
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+
 ---
 
 ## License
