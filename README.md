@@ -77,8 +77,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
  - [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) - List of awesome Georgian talks.
  - [getsadzeg/gegram-class](https://github.com/getsadzeg/gegram-class) - Library for replacing barbarisms in Georgian sentences (Java).
- - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 300 000 + unique Georgian words (MySQL).
-
+ - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 300 000 + unique Georgian words (MySQL).  
+ - [bumbeishvili/awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets) - Useful datasets, specific to Georgia  
+ 
 ---
 
 ## License
