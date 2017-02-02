@@ -1,6 +1,20 @@
 # Awesome Georgia
 A curated list of awesome libraries and packages specific/related to Georgia (country).
 
+
+## Categories
+1. [SMS / Texting](#sms--texting)
+1. [Payments and Banks](#payments-and-banks)
+1. [Assets](#assets)
+1. [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
+1. [Fakers, Lorem Ipsum Generators](#fakers-lorem-ipsum-generators)
+1. [Maps](#maps)
+1. [Uncategorized](#uncategorized)
+
+
+
+
+
 ---
 
 #### SMS / Texting
