@@ -1,6 +1,20 @@
 # Awesome Georgia
 A curated list of awesome libraries and packages specific/related to Georgia (country).
 
+
+## Categories
+1. [SMS / Texting](#sms--texting)
+1. [Payments and Banks](#payments-and-banks)
+1. [Assets](#assets)
+1. [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
+1. [Fakers, Lorem Ipsum Generators](#fakers-lorem-ipsum-generators)
+1. [Maps](#maps)
+1. [Uncategorized](#uncategorized)
+
+
+
+
+
 ---
 
 #### SMS / Texting
@@ -41,24 +55,32 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
    - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
    - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+   - [jenssegers/date](https://github.com/jenssegers/date) - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
 
 #### Fakers, Lorem Ipsum Generators
 
  - [Stichoza/text-generator](https://github.com/Stichoza/text-generator) - Random gibberish generator (PHP).
  - [safareli/loremtyaosani](https://github.com/safareli/loremtyaosani) - Generate random lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript).
- - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) (PHP).
+ - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - A library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) and [@akalongman](https://github.com/akalongman) (PHP).
+ - [gugakatsi/LoremKnight](https://github.com/Digital-Simurgh/LoremKnight) - Ruby gem , generating lorem from georgian poem "The Knight in the Panther's Skin".
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
+
+#### Maps
+ - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - Georgian regions geoJson data
 
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
  - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
  - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
+ - [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) - Vue.js georgian keyboard directive
  - [btomashvili/ge-services](https://github.com/btomashvili/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
  - [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) - List of awesome Georgian talks.
  - [getsadzeg/gegram-class](https://github.com/getsadzeg/gegram-class) - Library for replacing barbarisms in Georgian sentences (Java).
- - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 200000+ unique Georgian words (MySQL).
-
+ - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 300 000 + unique Georgian words (MySQL).  
+ - [bumbeishvili/awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets) - Useful datasets, specific to Georgia  
+ - [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) - Popular repositories in Georgia
+ 
 ---
 
 ## License
