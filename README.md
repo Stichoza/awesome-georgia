@@ -80,6 +80,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) - Database containing 300 000 + unique Georgian words (MySQL).  
  - [bumbeishvili/awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets) - Useful datasets, specific to Georgia  
  - [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) - Popular repositories in Georgia
+ - [akalongman/geo-words](https://github.com/akalongman/geo-words) - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
  
 ---
 
