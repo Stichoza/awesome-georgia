@@ -29,6 +29,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 
 #### Payments and Banks
 
+ - [akalongman/php-geopayment](https://github.com/akalongman/php-geopayment) - Online payments: BOG, Cartu, TBC Pay, Libery Pay (PHP).
  - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
  - [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
  - [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
