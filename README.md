@@ -83,6 +83,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) - Popular repositories in Georgia
  - [akalongman/geo-words](https://github.com/akalongman/geo-words) - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
  - [bumbeishvili/georgian-tech-communities](https://github.com/bumbeishvili/georgian-tech-communities) - List of Georgian tech communities.  
+ - [anbani/anbani.js](https://github.com/Anbani/anbani.js) - Georgian Alphabet convertor (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn). 
  
 ---
 
