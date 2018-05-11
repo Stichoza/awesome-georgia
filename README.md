@@ -43,6 +43,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [Lotuashvili/BPGNateli](https://github.com/Lotuashvili/BPGNateli) - Bower package for BPG Nateli font (CSS).
  - [thecotne/georgian-webfonts](https://github.com/thecotne/georgian-webfonts) - Package for georgian fonts (CSS).
  - [web-fonts](https://github.com/web-fonts) - List of georgian font packages (CSS).
+ - [nodarai/geo-public-figure-fonts](https://github.com/nodarai/geo-public-figure-fonts) - List of georgian public figures' handwritings transformed to fonts
 
 #### Internationalization and Localization (i18n/l10n)
  - [Stichoza/money-num-to-string](https://github.com/Stichoza/money-num-to-string) - Convert a number/money to localized string (PHP, JavaScript).
