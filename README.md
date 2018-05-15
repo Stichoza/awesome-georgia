@@ -18,14 +18,14 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 ---
 
 #### SMS / Texting
- - [dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).
+ - ~~[dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).~~
  - [wearede/magtisms-php](https://github.com/wearede/magtisms-php) - Sending SMS via Magticom gateway (PHP).
  - [zgabievi/SMS](https://github.com/zgabievi/SMS) - SMS sending system for [Laravel 5.*](https://laravel.com/) (PHP).
  - **Magtifun**
-   - [Stichoza/magtifun-api](https://github.com/Stichoza/magtifun-api) - Magtifun API for Google App Engine (Python).
-   - [Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - CLI for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI) (Python).
-   - [safareli/magtifun](https://github.com/safareli/magtifun) - Another Magtifun CLI based on Node (JavaScript).
-   - [kala13x/magtisun](https://github.com/kala13x/magtisun) - MagtiFun Library and SMS Sender for CLI Applications (C).
+   - ~~[Stichoza/magtifun-api](https://github.com/Stichoza/magtifun-api) - Magtifun API for Google App Engine (Python).~~
+   - ~~[Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - CLI for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI) (Python).~~
+   - ~~[safareli/magtifun](https://github.com/safareli/magtifun) - Another Magtifun CLI based on Node (JavaScript).~~
+   - ~~[kala13x/magtisun](https://github.com/kala13x/magtisun) - MagtiFun Library and SMS Sender for CLI Applications (C).~~
 
 #### Payments and Banks
 
