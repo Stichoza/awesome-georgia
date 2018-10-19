@@ -54,7 +54,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
  - [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) - [Laravel](http://laravel.com/) Georgian Language Pack.
  - **Other localized packages**
-   - [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton for designed to work with Kartvelian languages (CSS).
+   - [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
    - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
    - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
