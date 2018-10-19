@@ -54,6 +54,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
  - [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) - [Laravel](http://laravel.com/) Georgian Language Pack.
  - **Other localized packages**
+   - [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton for designed to work with Kartvelian languages (CSS).
    - [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
    - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
    - [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
@@ -68,7 +69,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
 
 #### Maps
- - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - Georgian regions geoJson data
+ - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - GeoJson data of Georgian regions.
 
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
@@ -84,7 +85,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) - Popular repositories in Georgia
  - [akalongman/geo-words](https://github.com/akalongman/geo-words) - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
  - [bumbeishvili/georgian-tech-communities](https://github.com/bumbeishvili/georgian-tech-communities) - List of Georgian tech communities.  
- - [anbani/anbani.js](https://github.com/Anbani/anbani.js) - Georgian Alphabet convertor (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn). 
+ - [anbani/anbani.js](https://github.com/Anbani/anbani.js) - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn). 
  
 ---
 
