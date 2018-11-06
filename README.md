@@ -77,6 +77,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
  - [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) - Vue.js georgian keyboard directive
  - [btomashvili/ge-services](https://github.com/btomashvili/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
+ - [nodarai/lariskursibot](https://github.com/nodarai/lariskursibot) - Telegram Bot example to check daily GEL exchange rate using Python
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
  - [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) - List of awesome Georgian talks.
  - [getsadzeg/gegram-class](https://github.com/getsadzeg/gegram-class) - Library for replacing barbarisms in Georgian sentences (Java).
