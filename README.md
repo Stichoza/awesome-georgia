@@ -11,13 +11,10 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 1. [Maps](#maps)
 1. [Uncategorized](#uncategorized)
 
-
-
-
-
 ---
 
 #### SMS / Texting
+ - [Lotuashvili/laravel-smsoffice](https://github.com/Lotuashvili/laravel-smsoffice) - Laravel package for smsoffice.ge service, supports laravel notifications.
  - [dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).
  - [wearede/magtisms-php](https://github.com/wearede/magtisms-php) - Sending SMS via Magticom gateway (PHP).
  - [zgabievi/SMS](https://github.com/zgabievi/SMS) - SMS sending system for [Laravel 5.*](https://laravel.com/) (PHP).
