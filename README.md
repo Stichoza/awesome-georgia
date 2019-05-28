@@ -26,6 +26,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 
 #### Payments and Banks
 
+ - [Lotuashvili/laravel-tbcpay](https://github.com/Lotuashvili/laravel-tbcpay) - TBC Pay package for Laravel (PHP).
  - [akalongman/php-geopayment](https://github.com/akalongman/php-geopayment) - Online payments: BOG, Cartu, TBC Pay, Libery Pay (PHP).
  - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
  - [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
