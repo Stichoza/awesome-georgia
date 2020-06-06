@@ -87,6 +87,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [akalongman/geo-words](https://github.com/akalongman/geo-words) - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
  - [bumbeishvili/georgian-tech-communities](https://github.com/bumbeishvili/georgian-tech-communities) - List of Georgian tech communities.  
  - [anbani/anbani.js](https://github.com/Anbani/anbani.js) - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn). 
+ - [ABGEO/json-to-popo](https://github.com/ABGEO/json-to-popo) - Fill Plain Old PHP Object with JSON content. (PHP). 
  
 ---
 
