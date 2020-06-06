@@ -31,6 +31,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
  - [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
  - [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
+ - [ABGEO/nbg-currency-d8](https://github.com/ABGEO/nbg-currency-d8) - Drupal 8 Block Module for displaying NBG currencies (PHP; Drupal Module).
  - [zgabievi/eMoney](https://github.com/zgabievi/eMoney) - eMoney payment system for [Laravel](https://laravel.com/) (PHP).
  - [zgabievi/OSMP](https://github.com/zgabievi/OSMP) - Georgian OSMP payment system for [Laravel](https://laravel.com/) (PHP).
  - [zgabievi/TBC](https://github.com/zgabievi/TBC) - TBC payment system for [Laravel](https://laravel.com/) (PHP).
