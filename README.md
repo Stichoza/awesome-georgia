@@ -65,6 +65,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - A library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) and [@akalongman](https://github.com/akalongman) (PHP).
  - [gugakatsi/LoremKnight](https://github.com/Digital-Simurgh/LoremKnight) - Ruby gem , generating lorem from georgian poem "The Knight in the Panther's Skin".
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
+ - [ABGEO/tarieli.py](https://github.com/ABGEO/tarieli.py) - Generate random paragraphs from Vepkhistkaosani. (Python).
 
 #### Maps
  - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - GeoJson data of Georgian regions.
