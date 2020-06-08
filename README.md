@@ -31,6 +31,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) - Online payment SDK for not only for TBC-Pay (PHP).
  - [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
  - [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
+ - [ABGEO/nbg-currency-d8](https://github.com/ABGEO/nbg-currency-d8) - Drupal 8 Block Module for displaying NBG currencies (PHP; Drupal Module).
  - [zgabievi/eMoney](https://github.com/zgabievi/eMoney) - eMoney payment system for [Laravel](https://laravel.com/) (PHP).
  - [zgabievi/OSMP](https://github.com/zgabievi/OSMP) - Georgian OSMP payment system for [Laravel](https://laravel.com/) (PHP).
  - [zgabievi/TBC](https://github.com/zgabievi/TBC) - TBC payment system for [Laravel](https://laravel.com/) (PHP).
@@ -65,6 +66,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - A library that generates fake data. Georgian l10n by [@lperto](https://github.com/lperto) and [@akalongman](https://github.com/akalongman) (PHP).
  - [gugakatsi/LoremKnight](https://github.com/Digital-Simurgh/LoremKnight) - Ruby gem , generating lorem from georgian poem "The Knight in the Panther's Skin".
  - [Marak/faker.js](https://github.com/Marak/faker.js) - Generate fake data in Node.js and the browser. Georgian l10n by [@Stichoza](https://github.com/Stichoza) (JavaScript).
+ - [ABGEO/tarieli.py](https://github.com/ABGEO/tarieli.py) - Generate random paragraphs from Vepkhistkaosani. (Python).
 
 #### Maps
  - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - GeoJson data of Georgian regions.
@@ -85,6 +87,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [akalongman/geo-words](https://github.com/akalongman/geo-words) - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
  - [bumbeishvili/georgian-tech-communities](https://github.com/bumbeishvili/georgian-tech-communities) - List of Georgian tech communities.  
  - [anbani/anbani.js](https://github.com/Anbani/anbani.js) - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn). 
+ - [ABGEO/json-to-popo](https://github.com/ABGEO/json-to-popo) - Fill Plain Old PHP Object with JSON content. (PHP). 
  
 ---
 
