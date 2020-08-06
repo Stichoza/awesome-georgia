@@ -18,6 +18,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [dimakura/magti](https://github.com/dimakura/magti) - Gem for sending SMS using Magticom gateway (Ruby).
  - [wearede/magtisms-php](https://github.com/wearede/magtisms-php) - Sending SMS via Magticom gateway (PHP).
  - [zgabievi/SMS](https://github.com/zgabievi/SMS) - SMS sending system for [Laravel 5.*](https://laravel.com/) (PHP).
+ - [zgabievi/laravel-sender](https://github.com/zgabievi/laravel-sender) - SENDER.GE Integration for Laravel
  - **Magtifun**
    - [Stichoza/magtifun-api](https://github.com/Stichoza/magtifun-api) - Magtifun API for Google App Engine (Python).
    - [Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - CLI for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI) (Python).
@@ -35,6 +36,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [zgabievi/eMoney](https://github.com/zgabievi/eMoney) - eMoney payment system for [Laravel](https://laravel.com/) (PHP).
  - [zgabievi/OSMP](https://github.com/zgabievi/OSMP) - Georgian OSMP payment system for [Laravel](https://laravel.com/) (PHP).
  - [zgabievi/TBC](https://github.com/zgabievi/TBC) - TBC payment system for [Laravel](https://laravel.com/) (PHP).
+ - [zgabievi/laravel-bogpayment](https://github.com/zgabievi/laravel-bogpayment) - BOG Payment integration for Laravel
 
 #### Assets
 
@@ -87,6 +89,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [akalongman/geo-words](https://github.com/akalongman/geo-words) - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
  - [bumbeishvili/georgian-tech-communities](https://github.com/bumbeishvili/georgian-tech-communities) - List of Georgian tech communities.  
  - [anbani/anbani.js](https://github.com/Anbani/anbani.js) - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).
+ - [zgabievi/laravel-onway](https://github.com/zgabievi/laravel-onway) - ONWAY.GE Integration for Laravel
  
 ---
 
