@@ -37,6 +37,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [zgabievi/laravel-ipay](https://github.com/zgabievi/laravel-ipay) - iPay Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
  - [zgabievi/laravel-tbcpayment](https://github.com/zgabievi/laravel-tbcpayment) - TBC Payment integration for [Laravel](https://laravel.com/) (PHP, Laravel).
  - [zgabievi/laravel-bog-console](https://github.com/zgabievi/laravel-bog-console) - Bank of Georgia Merchant Console OpenAPI Helper for [Laravel](https://laravel.com/) (PHP, Laravel).
+ - [payzeio/laravel-payze](https://github.com/payzeio/laravel-payze) - Payze.io Payment Integration for Laravel (PHP, Laravel).
 
 #### Assets
 
