@@ -19,9 +19,10 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [wearede/magtisms-php](https://github.com/wearede/magtisms-php) - Sending SMS via Magticom gateway (PHP).
  - [zgabievi/laravel-sender](https://github.com/zgabievi/laravel-sender) - SENDER.GE Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
  - [zgabievi/laravel-gosms](https://github.com/zgabievi/laravel-gosms) - GoSMS.GE Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
- - **Magtifun**
+ - ![მაგთიფანის ლოგო](http://www.magtifun.ge/images/logo.gif)
    - [Stichoza/magtifun-api](https://github.com/Stichoza/magtifun-api) - Magtifun API for Google App Engine (Python).
    - [Stichoza/magtifun-cli](https://github.com/Stichoza/magtifun-cli) - CLI for MagtiFun. Forked from [tatocaster/magtifun-CLI](https://github.com/tatocaster/magtifun-CLI) (Python).
+   - [unofficial magtifun API for Python](https://github.com/Tornike-Skhulukhia/magtifun_api) - unofficial magtifun API for Python
    - [safareli/magtifun](https://github.com/safareli/magtifun) - Another Magtifun CLI based on Node (JavaScript).
    - [kala13x/magtisun](https://github.com/kala13x/magtisun) - MagtiFun Library and SMS Sender for CLI Applications (C).
 
