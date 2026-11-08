@@ -4,7 +4,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 
 ## Categories
 1. [SMS / Texting](#sms--texting)
-1. [Payments and Banks](#payments-and-banks)
+1. [Payments, Banks and Taxes](#payments-banks-and-taxes)
 1. [Assets](#assets)
 1. [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
 1. [Fakers, Lorem Ipsum Generators](#fakers-lorem-ipsum-generators)
@@ -21,7 +21,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [zgabievi/laravel-sender](https://github.com/zgabievi/laravel-sender) - SENDER.GE Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
  - [zgabievi/laravel-gosms](https://github.com/zgabievi/laravel-gosms) - GoSMS.GE Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
 
-#### Payments and Banks
+#### Payments, Banks and Taxes
 
  - [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
  - [Lotuashvili/laravel-tbcpay](https://github.com/Lotuashvili/laravel-tbcpay) - TBC Pay package for [Laravel](https://laravel.com/) (PHP).
@@ -34,6 +34,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
  - [zgabievi/laravel-tbcpayment](https://github.com/zgabievi/laravel-tbcpayment) - TBC Payment integration for [Laravel](https://laravel.com/) (PHP, Laravel).
  - [zgabievi/laravel-bog-console](https://github.com/zgabievi/laravel-bog-console) - Bank of Georgia Merchant Console OpenAPI Helper for [Laravel](https://laravel.com/) (PHP, Laravel).
  - [payzeio/laravel-payze](https://github.com/payzeio/laravel-payze) - Payze.io Payment Integration for Laravel (PHP, Laravel).
+ - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
+ - [bekatom/geo-services](https://github.com/bekatom/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
+ - [leon-wbr/rs-ge](https://github.com/leon-wbr/rs-ge) - Typed client for the Revenue Service (rs.ge) web services: TaxPayer, WayBill and e-invoices (TypeScript; Node, Deno, Bun, Cloudflare Workers).
 
 #### Assets
 
@@ -72,10 +75,8 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
- - [dimakura/rs.ge](https://github.com/dimakura/rs.ge) - Client for rs.ge web services (Ruby).
  - [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
  - [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) - Vue.js georgian keyboard directive
- - [btomashvili/ge-services](https://github.com/btomashvili/geo-services) - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
  - [nodarai/lariskursibot](https://github.com/nodarai/lariskursibot) - Telegram Bot example to check daily GEL exchange rate using Python
  - [nikoloza/ngCurrencyExchange](https://gist.github.com/nikoloza/9018ee9c3fbad07292cc) - [Code Snippet] Universal currency exchanger for freecurrencyconverterapi.com (JavaScript, AngularJS).
  - [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) - List of awesome Georgian talks.
