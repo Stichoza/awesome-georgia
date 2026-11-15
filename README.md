@@ -72,6 +72,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 
 #### Maps
  - [bumbeishvili/geojson-georgian-regions](https://github.com/bumbeishvili/geojson-georgian-regions)  - GeoJson data of Georgian regions.
+ - [Paxa/georgia-geo-data](https://github.com/Paxa/georgia-geo-data) - Multilingual (ka/en/ru) dataset of verified Georgian streets, urban districts, and suburbs sourced from NAPR and OpenStreetMap.
 
 #### Uncategorized
  - [dimakura/oris.ge](https://github.com/dimakura/oris.ge) - library for import/exporting data in oris.ge accounting software (Ruby).
